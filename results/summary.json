@@ -1,0 +1,16 @@
+{
+  "period": "1973-01-02 to 2026-10-17",
+  "events_M>=4_in_region": 13418,
+  "Mc": 4.4,
+  "events_M>=Mc": 7493,
+  "independent_events_after_declustering": 2673,
+  "b_value": 1.018,
+  "b_se": 0.019,
+  "b_95CI": [
+    0.98,
+    1.05
+  ],
+  "median_km_to_boundary_observed": 293.8,
+  "median_km_to_boundary_random": 243.4,
+  "monte_carlo_p": 1.0
+}
